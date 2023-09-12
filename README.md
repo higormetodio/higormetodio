@@ -22,6 +22,5 @@ Em 2023 tomei a decisão de seguir o desejo, que tenho desde a época da faculda
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=higormetodio&theme=transparent&bg_color=000&border_color=512bd4&show_icons=true&icon_color=512bd4&title_color=f65163&text_color=FFF)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=higormetodio&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=higormetodio&show_icons=true&theme=transparent&bg_color=000&border_color=512bd4&show_icons=true&icon_color=512bd4&title_color=f65163&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=higormetodio&layout=compact&bg_color=000&border_color=512bd4&title_color=f65163&text_color=FFF)
