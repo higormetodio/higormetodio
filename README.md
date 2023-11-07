@@ -4,7 +4,8 @@ Sou formado em Ciências da Computação desde 2009 e vinha atuando como Analist
 Em 2023 tomei a decisão de seguir o desejo, que tenho desde a época da faculdade, de ser um Desenvolvedor de Software, ou seja, seguir numa carreira mais técnica.
 
 - 🔭 Atualmente estou focado em melhorar o meu perfil técnico.
-- 🌱 Estou estudando sobre as tecnologias de Desenvolvimento Microsoft (.NET, C#, ASP.NET, Blazor, MS SQL Server, Entity Framework, Dapper, Azure, etc.) 
+- 🌱 Estou estudando sobre as tecnologias de Desenvolvimento Microsoft (.NET, C#, ASP.NET, Blazor, MS SQL Server, Entity Framework, Dapper, Azure, etc.)
+- 🌱 Também estou estudando a linguagem Ruby e o Freamwkork Ruby on Rails, devido ao surgimento para realizar uma treinamento gratuito e processos de seleção.  
 
 ### Conecte-se comigo
 [![Site Pessoal](https://img.shields.io/badge/-Site%20Pessoal%20(Em%20Construção%20)-512bd4?style=for-the-badge)](https://higormetodio.dev/)
