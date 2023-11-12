@@ -14,7 +14,7 @@ Em 2023 tomei a decisão de seguir o desejo, que tenho desde a época da faculda
 ## 💻 Habilidades
 ![DotNet](https://img.shields.io/badge/DotNet-000?style=for-the-badge&logo=dotnet&logoColor=512bd4)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
-![Ruby](https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=ruby&logoColor=f51111)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=ruby&logoColor=f51111)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=ff7b00)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=5885ee)
