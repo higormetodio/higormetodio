@@ -1,7 +1,7 @@
 # Olá Tudo bem? Sou Higor Metódio 👋
 Sou formado em Ciências da Computação desde 2009 e vinha atuando como Analista de Sistemas (Aplicação), Analista de Projetos e Consultor Funcional ERP. 
 
-Em 2023 tomei a decisão de seguir o desejo, que tenho desde a época da faculdade, de ser um Desenvolvedor de Software, ou seja, seguir numa carreira mais técnica.
+Em 2023 tomei a decisão de me tornar um desenvolvedor de software e estar diretamente envolvido com a parte mais técnica da construção de sistemas.
 
 - 🔭 Atualmente estou focado em melhorar o meu perfil técnico.
 - 🌱 Estou estudando sobre as tecnologias de Desenvolvimento Microsoft (.NET, C#, ASP.NET, Blazor, MS SQL Server, Entity Framework, Dapper, Azure, etc.)
