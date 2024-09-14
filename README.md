@@ -3,8 +3,8 @@ Sou formado em Ciências da Computação desde 2009 e vinha atuando como Analist
 
 Em 2023 tomei a decisão de me tornar um desenvolvedor de software e estar diretamente envolvido com a parte mais técnica da construção de sistemas.
 
-- 🔭 Atualmente estou focado em melhorar o meu perfil técnico.
-- 🌱 Estou estudando sobre as tecnologias de Desenvolvimento Microsoft (.NET, C#, ASP.NET, Blazor, MS SQL Server, Entity Framework, Dapper, Azure, etc.)
+- 🔭 Atualmente estou focado no desenvolvimento de projetos pessoais.
+- 🌱 Estou estudando sobre as tecnologias de Desenvolvimento Microsoft (.NET, C#, ASP.NET, Blazor, MS SQL Server, Entity Framework, Dapper e Azure)
 
 ### Conecte-se comigo
 [![Site Pessoal](https://img.shields.io/badge/-Site%20Pessoal%20(Em%20Construção%20)-512bd4?style=for-the-badge)](https://higormetodio.dev/)
