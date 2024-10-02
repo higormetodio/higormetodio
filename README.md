@@ -1,7 +1,7 @@
 # Olá Tudo bem? Sou Higor Metódio 👋
 Desenvolvedor de Software utilizando as Stacks da Microsoft (C#, DotNet, ASP Net Core Web API, ASP Net Core MVC, Razor Pages, SQL Server, Entity Framework e Azure) e atualmente construindo uma sólida carreira como Desenvolvedor Dot Net. 
 
-Atuando por mais de 15 anos em diversas empresas através de Suporte a Sistemas, Gerenciamento de Projetos e Consultoria e Implantação de Sistemas ERP. Com isso trago para o dia a dia o conhecimento das regras de negócio dos mais diversos seguimentos adiquiridas durante essa jornada profissional.
+Atuando por mais de 15 anos em diversas empresas através de Suporte a Sistemas, Gerenciamento de Projetos e Consultoria e Implantação de Sistemas ERP. Com isso, trago para o dia a dia o conhecimento das regras de negócio dos mais diversos seguimentos adiquiridas durante essa jornada profissional.
 
 ### Conecte-se comigo
 [![Site Pessoal](https://img.shields.io/badge/-Site%20Pessoal%20(Em%20Construção%20)-512bd4?style=for-the-badge)](https://higormetodio.dev/)
