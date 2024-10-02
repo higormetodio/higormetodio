@@ -1,10 +1,7 @@
 # Olá Tudo bem? Sou Higor Metódio 👋
-Sou formado em Ciências da Computação desde 2009 e vinha atuando como Analista de Sistemas (Aplicação), Analista de Projetos e Consultor Funcional ERP. 
+Desenvolvedor de Software utilizando as Stacks da Microsoft (C#, DotNet, ASP Net Core Web API, ASP Net Core MVC, Razor Pages, SQL Server, Entity Framework e Azure) e atualmente construindo uma sólida carreira como Desenvolvedor Dot Net. 
 
-Em 2023 tomei a decisão de me tornar um desenvolvedor de software e estar diretamente envolvido com a parte mais técnica da construção de sistemas.
-
-- 🔭 Atualmente estou focado no desenvolvimento de projetos pessoais.
-- 🌱 Estou estudando sobre as tecnologias de Desenvolvimento Microsoft (.NET, C#, ASP.NET, Blazor, MS SQL Server, Entity Framework, Dapper e Azure)
+Atuando por mais de 15 anos em diversas empresas através de Suporte a Sistemas, Gerenciamento de Projetos e Consultoria e Implantação de Sistemas ERP. Com isso trago para o dia a dia o conhecimento das regras de negócio dos mais diversos seguimentos adiquiridas durante essa jornada profissional.
 
 ### Conecte-se comigo
 [![Site Pessoal](https://img.shields.io/badge/-Site%20Pessoal%20(Em%20Construção%20)-512bd4?style=for-the-badge)](https://higormetodio.dev/)
